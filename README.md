@@ -1,1 +1,2 @@
-# db
+# Oracle sqldeveloper 
+# database
